@@ -31,6 +31,9 @@ The dataset contains transactional data from the Olist marketplace including:
 Dataset Source:  
 Brazilian E-commerce Public Dataset by Olist (Kaggle)
 
+Kaggle Dataset Link:  
+https://www./kaggle/input/datasets/organizations/olistbr/brazilian-ecommerce
+
 
 
 ## Data Preparation
