@@ -33,7 +33,7 @@ Brazilian E-commerce Public Dataset by Olist (Kaggle)
 
 Kaggle Dataset Link:  
 https://www./kaggle/input/datasets/organizations/olistbr/brazilian-ecommerce
-
+https://www./kaggle/working/olist_master_cleaned.csv
 
 
 ## Data Preparation
