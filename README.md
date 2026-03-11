@@ -67,8 +67,7 @@ EDA focused on identifying patterns in:
 
 ## Dashboard Preview
 
-![Power BI Dashboard](images/olist-eda-powerbi-dashboard-ecommerce-data-cleaning-analysis
-/olist_dashboard.pbix.png
+![Power BI Dashboard](images/OlistDashboardImages
 )
 
 
